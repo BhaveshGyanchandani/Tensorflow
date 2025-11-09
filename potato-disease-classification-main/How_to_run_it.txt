@@ -1,0 +1,2 @@
+1) run main.py file in api folder .
+2) run the front using npm run start

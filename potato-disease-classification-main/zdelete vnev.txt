@@ -1,0 +1,11 @@
+delete vnev.tx3. Take Ownership of the Folder (Windows)
+Right-click the .venv folder.
+Select Properties > Security > Advanced.
+Click Change next to the Owner field.
+Enter your username and click Check Names, then OK.
+Check the box Replace owner on subcontainers and objects.
+Click Apply, then OK to close the properties.
+Try to delete the folder again.
+
+TF_ENABLE_ONEDNN_OPTS=0
+.\.venv\Scripts\Activate

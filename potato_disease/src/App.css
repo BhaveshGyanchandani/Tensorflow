@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.drop-area {
+  border: 2px dashed #007bff;
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+input {
+  display: none;
+}
+
+button {
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
